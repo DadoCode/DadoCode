@@ -8,7 +8,7 @@ Chemical engineer (MSc Chemical Process Engineering, UCL) working in property op
 
 | Project | What it is | Stack |
 |---|---|---|
-| [property-analytics-dashboard](https://github.com/DadoCode/property-analytics-dashboard) | Operations and analytics system for a short-let portfolio: KPIs, bookings, expenses, document review, targets and reports. In daily use; the public version runs on synthetic data. | Python, Flask, SQLite |
+| [property-analytics-dashboard](https://github.com/DadoCode/property-analytics-dashboard) | Operations and analytics system for a short-let portfolio: KPIs, bookings, expenses, document review, targets and reports. In daily use; the public version and [demo](https://fernhill-property-dashboard.vercel.app) run on synthetic data. | Python, Flask, SQLite |
 | [tyre-pyrolysis-rotary-kiln](https://github.com/DadoCode/tyre-pyrolysis-rotary-kiln) | MSc thesis: 1-D models comparing conventional wall heating with induction-heated susceptors in a rotary kiln. | MATLAB |
 | [concrete-strength-prediction](https://github.com/DadoCode/concrete-strength-prediction) | Neural-network surrogate for compressive strength, then constrained optimisation of the mix. | Python, scikit-learn |
 | [molecular-fingerprint-clustering](https://github.com/DadoCode/molecular-fingerprint-clustering) | Clustering 20,609 molecules by Morgan fingerprint, with the validation and caveats reported. | Python, RDKit |
