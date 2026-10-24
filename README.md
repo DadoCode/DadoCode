@@ -21,4 +21,4 @@ Chemical engineer (MSc Chemical Process Engineering, UCL) working in property op
 
 Python (pandas, NumPy, SciPy, scikit-learn), SQL, Flask, MATLAB, Excel · Aspen Plus and HYSYS, gPROMS, GAMS, AutoCAD
 
-On the software projects I set the requirements, data model, business rules and testing approach, and use AI coding tools such as Claude Code for much of the implementation. Each repository says how it was built.
+On the software projects I set the requirements, data model, business rules and testing approach, and use AI coding tools such as Claude Code for much of the implementation.
