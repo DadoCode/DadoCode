@@ -10,10 +10,12 @@ I build practical systems that turn fragmented documents, datasets and workflows
 
 | Project | What it demonstrates | Explore |
 |---|---|---|
-| **Property Analytics Dashboard** | Full-stack property operations, financial KPIs, bookings, expenses, document extraction and reporting. Public demo uses entirely synthetic data. | [Live demo](https://fernhill-property-dashboard.vercel.app) · [Project](https://github.com/DadoCode/property-analytics-dashboard) |
-| **Tenancy Contract Generator** | Validated document automation: structured input, Word generation and detection of missing required fields. | [Project](https://github.com/DadoCode/tenancy-contract-generator) |
+| **[Property Analytics Dashboard](showcases/property-analytics.md)** | Full-stack property operations, financial KPIs, bookings, expenses, document extraction and reporting. Public demo uses entirely synthetic data. | [Live demo](https://fernhill-property-dashboard.vercel.app) · [Project](https://github.com/DadoCode/property-analytics-dashboard) |
+| **[Tenancy Contract Generator](showcases/document-automation.md)** | Validated document automation: structured input, Word generation and detection of missing required fields. | [Project](https://github.com/DadoCode/tenancy-contract-generator) |
 | **Business Website** | Responsive property website, enquiry forms, accessibility and SEO. Fictional portfolio version of delivered work. | [Live demo](https://dadocode.github.io/business-website/) · [Project](https://github.com/DadoCode/business-website) |
 | **SQL Data Warehouse** | ETL, dimensional modelling and data-quality checks, developed as a guided learning project. | [Source](https://github.com/DadoCode/sql-data-warehouse-project) |
+
+**[AI Content Workflow](showcases/ai-content-workflow.md)** — Private prototype case study covering planning, validation and asset generation.
 
 ## Engineering, scientific computing & machine learning
 
