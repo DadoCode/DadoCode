@@ -1,24 +1,37 @@
-## Mohamad Abadi
+# Mohamad Abadi · DadoCode
 
-Chemical engineer (MSc Chemical Process Engineering, UCL) working in property operations in London. My background is process modelling, energy auditing and lab research; day to day I build data and automation tools for the operational problems I run into.
+Chemical process engineer and software builder working across **AI automation, operational software, data engineering and computational modelling**.
 
-[Portfolio and CV](https://dadocode.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohamadabadi)
+I build practical systems that turn fragmented documents, datasets and workflows into software people can use. My portfolio includes applications developed for real operational needs, alongside engineering research and machine-learning projects.
 
-### Selected work
+[Portfolio & CV](https://dadocode.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohamadabadi)
 
-| Project | What it is | Stack |
+## Featured software projects
+
+| Project | What it demonstrates | Explore |
 |---|---|---|
-| [property-analytics-dashboard](https://github.com/DadoCode/property-analytics-dashboard) | Operations and analytics system for a short-let portfolio: KPIs, bookings, expenses, document review, targets and reports. In daily use; the public version and [demo](https://fernhill-property-dashboard.vercel.app) run on synthetic data. | Python, Flask, SQLite |
-| [tyre-pyrolysis-rotary-kiln](https://github.com/DadoCode/tyre-pyrolysis-rotary-kiln) | MSc thesis: 1-D models comparing conventional wall heating with induction-heated susceptors in a rotary kiln. | MATLAB |
-| [concrete-strength-prediction](https://github.com/DadoCode/concrete-strength-prediction) | Neural-network surrogate for compressive strength, then constrained optimisation of the mix. | Python, scikit-learn |
-| [molecular-fingerprint-clustering](https://github.com/DadoCode/molecular-fingerprint-clustering) | Clustering 20,609 molecules by Morgan fingerprint, with the validation and caveats reported. | Python, RDKit |
-| [argon-phase-transition](https://github.com/DadoCode/argon-phase-transition) | Liquid–vapour coexistence and critical-point estimate for argon from simulation data. | Python, SciPy |
-| [business-website](https://github.com/DadoCode/business-website) | Multi-page responsive website delivered for a small business (sanitised copy). | HTML, CSS, JavaScript |
-| [tenancy-contract-generator](https://github.com/DadoCode/tenancy-contract-generator) | Fills a Word tenancy agreement from JSON and refuses to output a document with a missing field. | Python |
-| [sql-data-warehouse-project](https://github.com/DadoCode/sql-data-warehouse-project) | Bronze/silver/gold warehouse for CRM and ERP data, built following a course project. | SQL Server |
+| **Property Analytics Dashboard** | Full-stack property operations, financial KPIs, bookings, expenses, document extraction and reporting. Public demo uses entirely synthetic data. | [Live demo](https://fernhill-property-dashboard.vercel.app) · [Project](https://github.com/DadoCode/property-analytics-dashboard) |
+| **Tenancy Contract Generator** | Validated document automation: structured input, Word generation and detection of missing required fields. | [Project](https://github.com/DadoCode/tenancy-contract-generator) |
+| **Business Website** | Responsive property website, enquiry forms, accessibility and SEO. Fictional portfolio version of delivered work. | [Live demo](https://dadocode.github.io/business-website/) · [Project](https://github.com/DadoCode/business-website) |
+| **SQL Data Warehouse** | ETL, dimensional modelling and data-quality checks, developed as a guided learning project. | [Source](https://github.com/DadoCode/sql-data-warehouse-project) |
 
-### Tools
+## Engineering, scientific computing & machine learning
 
-Python (pandas, NumPy, SciPy, scikit-learn), SQL, Flask, MATLAB, Excel · Aspen Plus and HYSYS, gPROMS, GAMS, AutoCAD
+| Project | Focus |
+|---|---|
+| [Tyre Pyrolysis Rotary Kiln](https://github.com/DadoCode/tyre-pyrolysis-rotary-kiln) | MATLAB process models comparing wall heating and induction-heated internal heat carriers (UCL MSc thesis) |
+| [Concrete Strength Prediction](https://github.com/DadoCode/concrete-strength-prediction) | Neural-network regression and constrained mix optimisation |
+| [Molecular Fingerprint Clustering](https://github.com/DadoCode/molecular-fingerprint-clustering) | Chemical data analysis using RDKit and scikit-learn |
+| [Argon Phase Transition](https://github.com/DadoCode/argon-phase-transition) | Density profiling, nonlinear fitting and critical-point estimation |
 
-On the software projects I set the requirements, data model, business rules and testing approach, and use AI coding tools such as Claude Code for much of the implementation.
+## How I work
+
+**Stack:** Python, Flask, SQL, JavaScript, HTML/CSS, pandas, NumPy, SciPy, scikit-learn, MATLAB, Excel and engineering simulation tools.
+
+I define requirements, data models, business rules, test cases and UX, and use AI-assisted coding tools where useful. I distinguish *AI-generated suggestions* from validated business logic: applications use explicit checks, traceable data and human review for consequential outputs.
+
+## Portfolio and product boundaries
+
+This GitHub profile includes a mixture of open-source learning/research projects, sanitised demonstrations and working project examples. Some operational systems have private production deployments and may later become commercial software products. Public descriptions and demos are **not** an offer of access to proprietary production systems, customer data or private integrations.
+
+For project details, see the linked repository and its own licence. Commercial development and client-specific data are handled separately.
