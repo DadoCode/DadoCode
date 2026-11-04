@@ -2,7 +2,7 @@
 
 **Full-stack business application · Python, Flask, SQLite, HTMX, Chart.js**
 
-[Explore the synthetic-data demo](https://fernhill-property-dashboard.vercel.app)
+[Explore the synthetic-data demo](https://fernhill-property-dashboard.onrender.com)
 
 ## The problem
 
